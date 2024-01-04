@@ -1,2 +1,2 @@
 # har-converter
-change har into idea http client
+convert har into idea http client
